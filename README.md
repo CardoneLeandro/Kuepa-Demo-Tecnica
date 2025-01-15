@@ -1,3 +1,9 @@
+## Descipcion de la  aplicacion.
+
+Aplicacion desarrollada para simular la interacion mediante un chat de texto en tiempo real entre usuarios/moderadores durante una clase virtual en vivo.
+
+
+
 # Instrucciones para Iniciar la Aplicación
 
 Esta guía detalla los pasos necesarios para clonar, configurar y ejecutar la aplicación **Kuepa Chat**. Asegúrate de seguir cada paso cuidadosamente para un correcto funcionamiento.
@@ -101,4 +107,4 @@ npm run dev
 
 ## Vista Previa
 
-![Vista previa de la aplicación]([assets/demo.png](https://cdn.discordapp.com/attachments/730458448730390589/1329138418248056944/Captura_de_pantalla_2025-01-15_135938.png?ex=6789401d&is=6787ee9d&hm=5b81f4b9387632b2310eda473b3c54ded003bfdcd51629838e9dc1ab4a4e3c4c&))
+![Vista previa de la aplicación]((https://cdn.discordapp.com/attachments/730458448730390589/1329138418248056944/Captura_de_pantalla_2025-01-15_135938.png?ex=6789401d&is=6787ee9d&hm=5b81f4b9387632b2310eda473b3c54ded003bfdcd51629838e9dc1ab4a4e3c4c&))
